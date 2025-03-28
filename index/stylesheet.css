@@ -1,0 +1,19 @@
+body {
+  background-color: #4eb172;
+}
+
+p {
+  background-color: #4E5BB1;
+}
+
+table {
+  background-color: #B1A44E;
+}
+
+@media (max-width: 800px) {
+  table {
+    visibility: hidden;
+  }
+}
+
+/*# sourceMappingURL=stylesheet.css.map */
